@@ -10,8 +10,6 @@ import { Component } from '@angular/core';
     <button (click)="reset(counter)" >Reset</button>
     <button (click)="increaseBy(-1)">-1</button>
 
-
-<hr>
   `
 })
 
